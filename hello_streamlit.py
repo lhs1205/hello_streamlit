@@ -1,7 +1,7 @@
 import streamlit as st
 st.write('12223601 이혜성')
 
-# st.header('st.button')
+st.header('st.button')
 
 if st.button('Say hello'):
      st.write('Why hello there')
@@ -47,5 +47,6 @@ else:
 # a \left(\frac{1-r^{n}}{1-r}\right)
 
 # ''')
+
 
 
